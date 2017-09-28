@@ -8,7 +8,7 @@ permitindo que o usuário interaja de forma
 mais prática com os equipamentos de sua
 residência e/ou empresa.
 
-**How To Use**
+**Como instalar**
 ------------------
 
 	- Título
@@ -19,7 +19,7 @@ residência e/ou empresa.
 	- Licença
 	- Contato
 
-**problemas para resolver**
+**Problemas conhecidos e possíveis melhorias**
 ------------------
 
 - Corrigir a comunicação entre ..
