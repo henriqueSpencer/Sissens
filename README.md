@@ -28,3 +28,5 @@
 # ❤️️ Agradecimientos ❤️️
 
 ## 👫 Contribuyentes 👫
+## Team
+## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
