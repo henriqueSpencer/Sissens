@@ -1,4 +1,4 @@
-# SISSENS
+# SISSENS - SISTEMA DE GERENCIAMENTO DE SENSORES 
 Em inglês e português.
 
 **O que deve conter**
