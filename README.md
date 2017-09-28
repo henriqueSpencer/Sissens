@@ -34,7 +34,7 @@
 ## Team
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-![teste](<img src="https://user-images.githubusercontent.com/19451652/30993184-1aef548a-a484-11e7-86ed-355a23497863.jpg" "width="100px;" />)
-![eu copy](https://user-images.githubusercontent.com/19451652/30993259-6711a354-a484-11e7-9708-f02a9fb86759.jpg)
-![20526039_10212897312323106_4317811075203347960_n](https://user-images.githubusercontent.com/19451652/30993276-8ee9e940-a484-11e7-83b3-d447f458201b.jpg)
-![eai-grupo-pq-o-silencio](https://user-images.githubusercontent.com/19451652/30993283-97c4422c-a484-11e7-9140-c5eba4e6cbc7.jpg)
+![eu copy](https://user-images.githubusercontent.com/19451652/30993612-2d93c5f6-a486-11e7-93ad-282acad1fb00.jpg)
+![20526039_10212897312323106_4317811075203347960_n](https://user-images.githubusercontent.com/19451652/30993628-3798af62-a486-11e7-9c8a-e7df340fd9a5.jpg)
+![eai-grupo-pq-o-silencio](https://user-images.githubusercontent.com/19451652/30993629-3883d26c-a486-11e7-8d46-be9648a403ab.jpg)
+![teste](https://user-images.githubusercontent.com/19451652/30993633-3b64298c-a486-11e7-9c57-3bb67943e92e.jpg)
