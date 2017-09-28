@@ -1,5 +1,5 @@
 # SISSENS - SISTEMA DE GERENCIAMENTO DE SENSORES 
-Em inglês e português.
+
 
 **O que deve conter**
 
@@ -20,3 +20,6 @@ Em inglês e português.
 
 **https://github.com/matiassingers/awesome-readme**
 **http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme**
+
+
+**How To Use**
