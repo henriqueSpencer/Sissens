@@ -2,7 +2,11 @@
 
 **Descrição**
 ------------------
-
+SisSens visa a automação de aparelhos
+eletrônicos, conectando-os à internet,
+permitindo que o usuário interaja de forma
+mais prática com os equipamentos de sua
+residência e/ou empresa.
 
 **How To Use**
 ------------------
