@@ -11,13 +11,9 @@ residência e/ou empresa.
 **Como instalar**
 ------------------
 
-	- Título
-	- Descrição (O que é)
-	- Problemas conhecidos e possíveis melhorias
-	- Como instalar
-	- Lista de autores
-	- Licença
-	- Contato
+	- git
+	- git tarara
+	- muito tarara
 
 **Problemas conhecidos e possíveis melhorias**
 ------------------
