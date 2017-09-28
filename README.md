@@ -7,6 +7,20 @@
 **How To Use**
 ------------------
 
+	- Título
+	- Descrição (O que é)
+	- Problemas conhecidos e possíveis melhorias
+	- Como instalar
+	- Lista de autores
+	- Licença
+	- Contato
+
+**problemas para resolver**
+------------------
+
+- Corrigir a comunicação entre ..
+- ajeitar o banco de dados.
+- Another WebApp, capable of comparing at least 10 stocks.
 
 ## Team
 ![eu copy](https://user-images.githubusercontent.com/19451652/30993612-2d93c5f6-a486-11e7-93ad-282acad1fb00.jpg)
