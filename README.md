@@ -12,16 +12,16 @@ residência e/ou empresa.
 ------------------
 abra o terminal e digite nele :
 
-	- $ git clone https://github.com/amitmerchant1990/electron-markdownify
-	- git tarara
-	- muito tarara
+	- $ git clone https://github.com/henriqueSpencer/Sissens.git nomePasta
+	- $ cd nomePasta
+	- $ pip install -r requirements.txt
 	
 
 
 **Problemas conhecidos e possíveis melhorias**
 ------------------
 
-- Corrigir a comunicação entre ..
+- Corrigir a comunicação entre...
 - ajeitar o banco de dados.
 - Another WebApp, capable of comparing at least 10 stocks.
 
